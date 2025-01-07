@@ -25,3 +25,64 @@ a {
 a:hover {
     color: darkmagenta;
 }
+
+h1 {
+  color:blue;
+  font-size:30 px;
+}
+
+h2 {
+  font-size:20 px;  
+}
+
+h3 {
+    font-size:0.5 em;
+}
+
+h4 {
+  font-size:0.25 rem;
+}
+
+header {
+  padding: 10 px;
+}
+
+footer {
+  margin: 10 px;
+}
+
+p {
+  text-align: right;
+}
+
+body {
+  background: url(img/info.jpg)
+}
+
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 400
+
+.playwrite-au-sa-<uniquifier> {
+  font-family: "Playwrite AU SA", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+nav a:hover {
+  color: orange;
+  text-align: left;
+}
+
+img {
+  border: 50 px black;
+}
+
+p {
+  text-shadow: 5 px;
+}
+
+body {
+  lenght: 500 px;
+  align:center;
+}
