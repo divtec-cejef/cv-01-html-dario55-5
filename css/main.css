@@ -56,7 +56,7 @@ p {
 }
 
 body {
-    background: url(../img/info.jpg)
+    background-image: url(../img/info.jpg)
 }
 
 p {
