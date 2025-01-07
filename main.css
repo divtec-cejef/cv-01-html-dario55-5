@@ -28,13 +28,11 @@ p {
 }
 
 body {
-  background: url(img/info.jpg)
+  background: url(../img/info.jpg)
 }
 
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 400
 
-.playwrite-au-sa-<uniquifier> {
+p {
   font-family: "Playwrite AU SA", serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
