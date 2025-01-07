@@ -1,7 +1,8 @@
 * {
     box-sizing: border-box;
     color:pink;
-    text-shadow:50 px 50 px black;
+    text-shadow:10 px 10 px black;
+    border: 10 px 10 px black;
 }
 
 body {
