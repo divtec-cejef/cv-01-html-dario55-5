@@ -65,12 +65,12 @@ nav a:hover {
     text-align: left;
 }
 img {
-    border: 50 px black;
+    border: solid 10px black;
 }
 p {
-    text-shadow: 5 px;
+    text-shadow: 5px;
 }
 body {
-    width: 800 px;
+    width: 800px;
     align:center;
 }
