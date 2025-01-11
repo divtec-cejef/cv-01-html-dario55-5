@@ -1,26 +1,28 @@
+/*css d'avant*/
 * {
     box-sizing: border-box;
-    color:pink;
-    text-shadow:10 px 10 px black;
-    border: 10 px 10 px black;
 }
+
 body {
     font-family: Arial, sans-serif;
     font-weight: 400;
-    font-size: 1.2 rem;
+    font-size: 1.2rem;
     line-height: 1.4;
     color: darkblue;
     background-color: whitesmoke;
 }
+
 img {
-    max-width: 100 %;
+    max-width: 100%;
     height: auto;
     width: auto;
 }
+
 a {
     color: deeppink;
     text-decoration: none;
 }
+
 a:hover {
     color: darkmagenta;
 }
@@ -28,6 +30,7 @@ a:hover {
 
 
 
+/*nouveau css*/
 h1 {
     color:white;
     font-size:20 %;
