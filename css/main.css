@@ -31,49 +31,12 @@ a:hover {
 
 
 /*nouveau css*/
-html {
+body {
+    background-image: url(../img/desert.jpg)
     width: 800px;
     margin: auto;
     text-align: center;
     justify-content:center;
     text-shadow: 10px 10px;
     color:white;
-}
-
-h1 {
-    font-size:20 %;
-}
-h2 {
-    font-size:.5 em;  
-}
-h3 {
-    font-size:0.5 em;
-}
-h4 {
-    font-size:0.5 rem;
-}
-header {
-    padding: 10 px;
-}
-footer {
-    margin: 10 px;
-}
-p {
-    text-align: left;
-}
-body {
-    background-image: url(../img/desert.jpg)
-}
-p {
-    font-family: "Bahnhof";
-}
-nav a:hover {
-    color: purple;
-    text-align: left;
-}
-img {
-    border: solid 10px green;
-}
-p {
-    text-shadow: 5px;
 }
