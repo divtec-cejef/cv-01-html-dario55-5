@@ -29,7 +29,7 @@ h1 {
     color:blue;
 }
 
-section:hover {
+section:hover, header:hover, footer:hover {
     background-color:white;
 }
 
