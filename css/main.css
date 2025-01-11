@@ -14,6 +14,7 @@ html {
 /*section et contenu*/
 section, header, footer{
     border: solid 5px green;
+    background-color:lightgrey;
 }
 section *, header *, footer * {
     border: none;
