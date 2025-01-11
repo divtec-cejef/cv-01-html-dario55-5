@@ -31,8 +31,16 @@ a:hover {
 
 
 /*nouveau css*/
-h1 {
+html {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+    justify-content:center;
+    text-shadow: 10px 10px;
     color:white;
+}
+
+h1 {
     font-size:20 %;
 }
 h2 {
@@ -68,10 +76,4 @@ img {
 }
 p {
     text-shadow: 5px;
-}
-html {
-    width: 800px;
-    margin: auto;
-    text-align: center;
-    justify-content:center;
 }
