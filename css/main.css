@@ -20,3 +20,8 @@ section, header, footer{
 section *, header *, footer * {
     border: none;
 }
+
+img {
+    height:100px;
+    width:50%;
+}
