@@ -13,10 +13,7 @@ html {
 
 /*section et contenu*/
 section, header, footer{
-    border-style: solid;
-    border-color: green;
-    border-width: 5px 5px 0px 5px;
-    background-color:lightgrey;
+    border: solid 5px green;
 }
 section *, header *, footer * {
     border: none;
