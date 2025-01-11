@@ -26,7 +26,7 @@ a:hover {
 
 /*nouveau css*/
 html {
-    background-image: url(../img/desert.jpg)
+    background-image: url(../img/desert.jpg);
     width: 800px;
     margin: auto;
 }
