@@ -29,3 +29,8 @@ img {
 h1 {
     color:blue;
 }
+
+section:hover {
+    color:lightgrey;
+}
+
