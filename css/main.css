@@ -29,7 +29,7 @@ section:hover, header:hover, footer:hover {
 /*autre*/
 h1 {
     color:blue;
-    text-shadow: 0.5px black;
+    text-shadow: 1px black;
 }
 h1:hover{
     font-size:2.5rem;
@@ -49,7 +49,7 @@ a:hover {
 a:link {
     color:blue;
 }
-a:visited {
+a:visited, .lien1 {
     color:purple;
     font-size: 60px;
 }
