@@ -8,13 +8,13 @@ html {
     width: 800px;
     margin: auto;
     text-align:center;
-    color:white;
+    background-color:lightgrey;
+    color:black;
 }
 
 section, header, footer{
     border: solid 5px green;
     background-color:white;
-    color:black;
 }
 
 section *, header *, footer * {
@@ -31,6 +31,6 @@ h1 {
 }
 
 section:hover {
-    color:lightgrey;
+    background-color:white;
 }
 
