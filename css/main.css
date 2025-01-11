@@ -7,5 +7,5 @@ html {
     background-image: url(../img/desert.jpg);
     width: 800px;
     margin: auto;
-    align-items:center;
+    text-align:center;
 }
