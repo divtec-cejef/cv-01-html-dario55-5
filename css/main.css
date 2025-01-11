@@ -32,11 +32,12 @@ img {
 }
 
 /*liens*/
-a {
-    color:darkblue;
+a:hover {
+    color:orange;
+    font-size:2em;
 }
 a:link {
-    color:lightblue;
+    color:blue;
 }
 a:visited {
     color:purple;
