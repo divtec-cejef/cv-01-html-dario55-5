@@ -34,6 +34,7 @@ h1:hover{
 img {
     height:200px;
     width:200px;
+    border:2px solid lightgreen;
 }
 
 /*liens*/
