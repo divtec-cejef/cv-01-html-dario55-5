@@ -13,4 +13,5 @@ html {
 
 h1, h2, h3, h4, p, img, ul, ol {
     border: solid 10px green;
+    background-color:white;
 }
