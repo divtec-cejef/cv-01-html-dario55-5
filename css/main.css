@@ -11,8 +11,12 @@ html {
     color:white;
 }
 
-h1, h2, h3, h4, p, img, ul, ol {
+section {
     border: solid 10px green;
     background-color:white;
     color:black;
+}
+
+section * {
+    border: none;
 }
