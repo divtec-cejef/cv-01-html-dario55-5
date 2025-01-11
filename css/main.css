@@ -10,6 +10,7 @@ html {
     text-align:center;
     color:black;
 }
+
 /*section et contenu*/
 section, header, footer{
     border: solid 5px green;
@@ -26,6 +27,10 @@ section:hover, header:hover, footer:hover {
 h1 {
     color:blue;
 }
+
+h1:hover{
+    font-size:1.2rem;
+}
 img {
     height:200px;
     width:200px;
@@ -34,7 +39,7 @@ img {
 /*liens*/
 a:hover {
     color:orange;
-    font-size:2em;
+    font-size:1.2em;
 }
 a:link {
     color:blue;
