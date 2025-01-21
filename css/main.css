@@ -6,7 +6,8 @@
 /*nouveau css*/
 html {
     background-image: url(../img/desert.jpg);
-    width: 800px;
+    width: 80vw;
+    min-width: 200px;
     margin: auto;
     text-align:center;
     color:black;
