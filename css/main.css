@@ -43,6 +43,10 @@ img {
     border:2px solid lightgreen;
     margin:30px;
 }
+img:hover {
+    rotate: 180deg;
+    border: 4px solid red;
+}
 
 
 /*liens*/
