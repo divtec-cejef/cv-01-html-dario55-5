@@ -19,7 +19,7 @@ section, header, footer{
     border: solid 5px green;
     background-color:lightgrey;
     min-height:25vh;
-
+    padding: 30px;
 }
 section *, header *, footer * {
     border: none;
