@@ -1,5 +1,6 @@
 * {
     box-sizing: border-box;
+    padding: 30px;
 }
 
 
@@ -11,7 +12,6 @@ html {
     margin: auto;
     text-align:center;
     color:black;
-    padding: 30px;
 }
 
 
@@ -19,6 +19,8 @@ html {
 section, header, footer{
     border: solid 5px green;
     background-color:lightgrey;
+    min-height:25vh;
+
 }
 section *, header *, footer * {
     border: none;
