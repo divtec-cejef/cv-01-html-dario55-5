@@ -2,26 +2,54 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: Arial, sans-serif;
-    font-weight: 400;
-    font-size: 1.2rem;
-    line-height: 1.4;
-    color: darkblue;
-    background-color: whitesmoke;
+
+/*nouveau css*/
+html {
+    background-image: url(../img/desert.jpg);
+    width: 800px;
+    margin: auto;
+    text-align:center;
+    color:black;
 }
 
+
+/*section et contenu*/
+section, header, footer{
+    border: solid 5px green;
+    background-color:lightgrey;
+}
+section *, header *, footer * {
+    border: none;
+}
+section:hover, header:hover, footer:hover {
+    background-color:white;
+}
+
+
+/*autre*/
+h1 {
+    color: #932e2e;
+    text-shadow: 3px 3px #000000;
+}
+h1:hover{
+    font-size:2.5rem;
+}
 img {
-    max-width: 100%;
-    height: auto;
-    width: auto;
+    height:200px;
+    width:200px;
+    border:2px solid lightgreen;
 }
 
-a {
-    color: deeppink;
-    text-decoration: none;
-}
 
+/*liens*/
 a:hover {
-    color: darkmagenta;
+    color:orange;
+    font-size:1.4em;
+}
+a:link {
+    color:blue;
+}
+a:visited, .lien1 {
+    color:purple;
+    font-size: 18px;
 }
